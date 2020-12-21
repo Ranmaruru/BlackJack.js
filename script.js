@@ -89,4 +89,3 @@ if (getHandValue(dealerHand)>21)
 {
     document.write("<strong>U WIN!!!!</strong>");
 }
-//Thanks to If Then Cody
